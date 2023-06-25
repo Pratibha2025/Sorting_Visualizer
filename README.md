@@ -1,2 +1,7 @@
 # Sorting_Visualizer
-<a href = " https://pratibha2025.github.io/Sorting_Visualizer/">Check out the Website here</a>
+
+## Demo
+
+Check out the website here
+
+https://pratibha2025.github.io/Sorting_Visualizer/
